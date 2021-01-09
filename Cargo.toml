@@ -1,0 +1,9 @@
+[package]
+name = "bib"
+version = "0.1.0"
+authors = ["Piotr Oleskiewicz"]
+edition = "2018"
+
+[dependencies]
+biblatex = "0.4"
+structopt = { version = "0.3", default-features = false }
